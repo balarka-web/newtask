@@ -1,0 +1,40 @@
+{
+  "signupUsers": [
+    {
+      "username": "balarka",
+      "email": "b@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "usertest",
+      "email": "us@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "balarka1",
+      "email": "b1@gmail.com",
+      "password": "0987654",
+      "id": 3
+    },
+    {
+      "username": "erfewsdgs",
+      "email": "adsfs@sfdg.gjk",
+      "password": "dtfhyfg",
+      "id": 4
+    },
+    {
+      "username": "iupyuipu",
+      "email": "uyoui@tkuf.tygu",
+      "password": "ytityoif",
+      "id": 5
+    },
+    {
+      "username": "yourname",
+      "email": "you@gm.com",
+      "password": "123456",
+      "id": 6
+    }
+  ]
+}
